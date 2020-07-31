@@ -1,1 +1,2 @@
 # Programing-Concepts-and-Methodologies-I-CSC15
+This repository contains all the labs and projects that I have completed for my computer science course CSC 15. All the labs and the projects were done in java however the main focus of this class is to teach the first part of the fundamentals of computer programing and methodologies. This class was a prerequisite for my programing concepts and methodologies II CSC20. Grade recieved in this class: A
